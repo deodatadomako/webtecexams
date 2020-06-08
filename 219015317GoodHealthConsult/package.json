@@ -1,12 +1,12 @@
 {
-  "name": "endgame",
+  "name": "goodhealthconsult",
   "version": "1.0.0",
-  "description": "[Browser]     - Chrome, Firefox, Opera mini     [PAGES] - home.ejs             - signup.ejs             - login.ejs",
+  "description": "Patients Database",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Sammy",
+  "author": "Deodat Adomako",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.3",
